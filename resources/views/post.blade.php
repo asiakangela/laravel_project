@@ -11,7 +11,7 @@
         <h1><a href="/post">My First Post</h1>
         <p>
         Open the command line.
-    Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
+    Set my username: git config --global user.name "FIRST_NAME LAST_NAME"
     Set your email address: git config -- global user.email " MY_NAME@example.com"
 
 
